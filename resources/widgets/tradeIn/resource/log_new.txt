@@ -1,0 +1,1288 @@
+
+27-02-2019_16:58:30 -- > Array
+(
+    [form_text_230] => 2534
+    [form_hidden_246] => Новый ТУССАН
+    [form_hidden_238] => BMW
+    [form_hidden_234] => 2er Active Tourer
+    [form_hidden_239] => 2017
+    [form_hidden_240] => F45
+    [form_hidden_241] => бензин / 1.5 / автомат / 136 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => компактвэн
+    [form_hidden_244] => 30000
+)
+
+27-02-2019_17:11:06 -- > Array
+(
+    [form_text_230] => 8-912-891-02-35
+    [form_hidden_246] => Новый ТУССАН
+    [form_hidden_238] => BMW
+    [form_hidden_234] => 2er
+    [form_hidden_239] => 2014
+    [form_hidden_240] => F22
+    [form_hidden_241] => бензин / 2.0 / автомат / 184 л.с.
+    [form_hidden_242] => задний
+    [form_hidden_243] => купе
+    [form_hidden_244] => 30000
+)
+
+27-02-2019_17:13:28 -- > Array
+(
+    [form_text_230] => 89128912250
+    [form_hidden_246] => ЭЙЧ-1
+    [form_hidden_238] => Acura
+    [form_hidden_234] => RL
+    [form_hidden_239] => 2005
+    [form_hidden_240] => II
+    [form_hidden_241] => бензин / 3.5 / автомат / 304 л.с.
+    [form_hidden_242] => полный
+    [form_hidden_243] => седан
+    [form_hidden_244] => 1
+)
+
+28-02-2019_13:37:43 -- > Array
+(
+    [form_text_230] => 89193204545
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => Volkswagen
+    [form_hidden_234] => Polo
+    [form_hidden_239] => 2012
+    [form_hidden_240] => V
+    [form_hidden_241] => бензин / 1.6 / автомат / 105 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 75000
+)
+
+28-02-2019_14:27:13 -- > Array
+(
+    [form_text_230] => 8-9999999999
+    [form_hidden_246] => Новый ТУССАН
+    [form_hidden_238] => Brilliance
+    [form_hidden_234] => H530
+    [form_hidden_239] => 2014
+    [form_hidden_240] => I
+    [form_hidden_241] => бензин / 1.6 / автомат / 110 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 10000
+)
+
+01-03-2019_10:21:47 -- > Array
+(
+    [form_text_230] => 87081611651
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => LADA (ВАЗ)
+    [form_hidden_234] => Priora
+    [form_hidden_239] => 2010
+    [form_hidden_240] => I
+    [form_hidden_241] => бензин / 1.6 / механика / 98 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => универсал
+    [form_hidden_244] => 100000
+)
+
+01-03-2019_10:46:05 -- > Array
+(
+    [form_text_230] => 9000723933
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => Chevrolet
+    [form_hidden_234] => Aveo
+    [form_hidden_239] => 2008
+    [form_hidden_240] => I Рестайлинг
+    [form_hidden_241] => бензин / 1.2 / механика / 84 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 150000
+)
+
+01-03-2019_12:37:42 -- > Array
+(
+    [form_text_230] => 89080574493
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => LADA (ВАЗ)
+    [form_hidden_234] => Priora
+    [form_hidden_239] => 2011
+    [form_hidden_240] => I
+    [form_hidden_241] => бензин / 1.6 / механика / 98 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => хэтчбек 5 дв.
+    [form_hidden_244] => 125000
+)
+
+01-03-2019_16:58:35 -- > Array
+(
+    [form_text_230] => 9507236169
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => SsangYong
+    [form_hidden_234] => Kyron
+    [form_hidden_239] => 2008
+    [form_hidden_240] => I Рестайлинг
+    [form_hidden_241] => дизель / 2.0 / механика / 141 л.с.
+    [form_hidden_242] => полный
+    [form_hidden_243] => внедорожник
+    [form_hidden_244] => 125000
+)
+
+02-03-2019_09:17:19 -- > Array
+(
+    [form_text_230] => 89514510379
+    [form_hidden_246] => ТУССАН
+    [form_hidden_238] => Hyundai
+    [form_hidden_234] => ix35
+    [form_hidden_239] => 2011
+    [form_hidden_240] => I
+    [form_hidden_241] => бензин / 2.0 / автомат / 150 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => внедорожник
+    [form_hidden_244] => 150000
+)
+
+02-03-2019_10:42:43 -- > Array
+(
+    [form_text_230] => 89049784888
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => Renault
+    [form_hidden_234] => Logan
+    [form_hidden_239] => 2013
+    [form_hidden_240] => I Рестайлинг
+    [form_hidden_241] => бензин / 1.4 / механика / 75 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 50000
+)
+
+02-03-2019_12:22:10 -- > Array
+(
+    [form_text_230] => 89517996342
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => Toyota
+    [form_hidden_234] => Corolla
+    [form_hidden_239] => 2008
+    [form_hidden_240] => X (E140 E150)
+    [form_hidden_241] => бензин / 1.6 / робот / 124 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 150000
+)
+
+02-03-2019_12:39:23 -- > Array
+(
+    [form_text_230] => +79517996342
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => Toyota
+    [form_hidden_234] => Corolla
+    [form_hidden_239] => 2008
+    [form_hidden_240] => X (E140 E150)
+    [form_hidden_241] => бензин / 1.6 / робот / 124 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 150000
+)
+
+02-03-2019_16:20:48 -- > Array
+(
+    [form_text_230] => +79514761255
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Renault
+    [form_hidden_234] => Sandero
+    [form_hidden_239] => 2013
+    [form_hidden_240] => I
+    [form_hidden_241] => бензин / 1.6 / автомат / 103 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => хэтчбек 5 дв.
+    [form_hidden_244] => 100000
+)
+
+02-03-2019_16:46:36 -- > Array
+(
+    [form_text_230] => 83519034153
+    [form_hidden_246] => Новый ТУССАН
+    [form_hidden_238] => Peugeot
+    [form_hidden_234] => 308
+    [form_hidden_239] => 2011
+    [form_hidden_240] => I Рестайлинг
+    [form_hidden_241] => бензин / 1.6 / автомат / 120 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => хэтчбек 5 дв.
+    [form_hidden_244] => 75000
+)
+
+02-03-2019_16:46:46 -- > Array
+(
+    [form_text_230] => 83519034153
+    [form_hidden_246] => Новый ТУССАН
+    [form_hidden_238] => 0
+    [form_hidden_234] => 0
+    [form_hidden_239] => 0
+    [form_hidden_240] => 0
+    [form_hidden_241] => 0
+    [form_hidden_242] => 0
+    [form_hidden_243] => 0
+    [form_hidden_244] => 0
+)
+
+02-03-2019_17:42:20 -- > Array
+(
+    [form_text_230] => 89043072725
+    [form_hidden_246] => Новый ТУССАН
+    [form_hidden_238] => Hyundai
+    [form_hidden_234] => Solaris
+    [form_hidden_239] => 2015
+    [form_hidden_240] => I Рестайлинг
+    [form_hidden_241] => бензин / 1.6 / автомат / 123 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 30000
+)
+
+03-03-2019_12:20:01 -- > Array
+(
+    [form_text_230] => 89080443271
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => LADA (ВАЗ)
+    [form_hidden_234] => 2112
+    [form_hidden_239] => 2005
+    [form_hidden_240] => без обозначения
+    [form_hidden_241] => бензин / 1.6 / механика / 81 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => хэтчбек 5 дв.
+    [form_hidden_244] => 200000
+)
+
+03-03-2019_12:57:29 -- > Array
+(
+    [form_text_230] => +79128912619
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Hyundai
+    [form_hidden_234] => Creta
+    [form_hidden_239] => 2016
+    [form_hidden_240] => I
+    [form_hidden_241] => бензин / 1.6 / автомат / 123 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => внедорожник
+    [form_hidden_244] => 75000
+)
+
+03-03-2019_17:04:56 -- > Array
+(
+    [form_text_230] => 8-912-891-02-35
+    [form_hidden_246] => Новый ТУССАН
+    [form_hidden_238] => BYD
+    [form_hidden_234] => Flyer
+    [form_hidden_239] => 2005
+    [form_hidden_240] => без обозначения
+    [form_hidden_241] => бензин / 0.8 / механика / 40 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => хэтчбек 5 дв.
+    [form_hidden_244] => 30000
+)
+
+03-03-2019_19:40:07 -- > Array
+(
+    [form_text_230] => 89822857742
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => LADA (ВАЗ)
+    [form_hidden_234] => 2109
+    [form_hidden_239] => 2003
+    [form_hidden_240] => без обозначения
+    [form_hidden_241] => бензин / 1.5 / механика / 78 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => хэтчбек 5 дв.
+    [form_hidden_244] => 125000
+)
+
+04-03-2019_11:12:33 -- > Array
+(
+    [form_text_230] => 89193467078
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => Nissan
+    [form_hidden_234] => Sunny
+    [form_hidden_239] => 1999
+    [form_hidden_240] => B15
+    [form_hidden_241] => бензин / 1.5 / автомат / 105 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 200000
+)
+
+04-03-2019_12:26:51 -- > Array
+(
+    [form_text_230] => 89085782963
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => Chery
+    [form_hidden_234] => Tiggo 2
+    [form_hidden_239] => 2017
+    [form_hidden_240] => без обозначения
+    [form_hidden_241] => бензин / 1.5 / автомат / 106 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => внедорожник
+    [form_hidden_244] => 30000
+)
+
+04-03-2019_13:54:34 -- > Array
+(
+    [form_text_230] => 89518039294
+    [form_hidden_246] => ТУССАН
+    [form_hidden_238] => Ford
+    [form_hidden_234] => C-MAX
+    [form_hidden_239] => 2008
+    [form_hidden_240] => I Рестайлинг
+    [form_hidden_241] => бензин / 1.8 / механика / 125 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => компактвэн
+    [form_hidden_244] => 150000
+)
+
+04-03-2019_15:35:50 -- > Array
+(
+    [form_text_230] => 89227144209
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Kia
+    [form_hidden_234] => Rio
+    [form_hidden_239] => 2016
+    [form_hidden_240] => III Рестайлинг
+    [form_hidden_241] => бензин / 1.6 / автомат / 123 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 50000
+)
+
+04-03-2019_16:15:15 -- > Array
+(
+    [form_text_230] => 89080445225
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Kia
+    [form_hidden_234] => Picanto
+    [form_hidden_239] => 2015
+    [form_hidden_240] => II Рестайлинг
+    [form_hidden_241] => бензин / 1.2 / автомат / 85 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => хэтчбек 3 дв.
+    [form_hidden_244] => 30000
+)
+
+04-03-2019_19:35:06 -- > Array
+(
+    [form_text_230] => 89048057954
+    [form_hidden_246] => ТУССАН
+    [form_hidden_238] => Hyundai
+    [form_hidden_234] => Accent
+    [form_hidden_239] => 2009
+    [form_hidden_240] => II (ТагАЗ)
+    [form_hidden_241] => бензин / 1.5 / автомат / 102 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 125000
+)
+
+04-03-2019_19:36:12 -- > Array
+(
+    [form_text_230] => 89048057954
+    [form_hidden_246] => СОНАТА
+    [form_hidden_238] => Hyundai
+    [form_hidden_234] => Accent
+    [form_hidden_239] => 2009
+    [form_hidden_240] => II (ТагАЗ)
+    [form_hidden_241] => бензин / 1.5 / автомат / 102 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 150000
+)
+
+05-03-2019_08:52:27 -- > Array
+(
+    [form_text_230] => 89525100492
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Chery
+    [form_hidden_234] => M11
+    [form_hidden_239] => 2010
+    [form_hidden_240] => (A3)
+    [form_hidden_241] => бензин / 1.6 / механика / 117 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 150000
+)
+
+05-03-2019_09:28:52 -- > Array
+(
+    [form_text_230] => 89514713639
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Volvo
+    [form_hidden_234] => S40
+    [form_hidden_239] => 2007
+    [form_hidden_240] => II Рестайлинг
+    [form_hidden_241] => бензин / 1.8 / механика / 125 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 30000
+)
+
+05-03-2019_12:21:20 -- > Array
+(
+    [form_text_230] => 89128074839
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Kia
+    [form_hidden_234] => Ceed
+    [form_hidden_239] => 2009
+    [form_hidden_240] => I
+    [form_hidden_241] => бензин / 1.6 / автомат / 122 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => универсал
+    [form_hidden_244] => 100000
+)
+
+05-03-2019_13:08:49 -- > Array
+(
+    [form_text_230] => 89068585163
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Hyundai
+    [form_hidden_234] => Solaris
+    [form_hidden_239] => 2018
+    [form_hidden_240] => II
+    [form_hidden_241] => бензин / 1.4 / автомат / 100 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 1
+)
+
+05-03-2019_15:42:48 -- > Array
+(
+    [form_text_230] => 89507221939
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => Volkswagen
+    [form_hidden_234] => Passat
+    [form_hidden_239] => 2008
+    [form_hidden_240] => B6
+    [form_hidden_241] => бензин / 1.8 / автомат / 160 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 125000
+)
+
+06-03-2019_08:41:26 -- > Array
+(
+    [form_text_230] => 89320103039
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Opel
+    [form_hidden_234] => Astra
+    [form_hidden_239] => 2012
+    [form_hidden_240] => H Рестайлинг
+    [form_hidden_241] => бензин / 1.6 / механика / 115 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => хэтчбек 5 дв.
+    [form_hidden_244] => 75000
+)
+
+06-03-2019_08:49:29 -- > Array
+(
+    [form_text_230] => 89630799059
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => Chevrolet
+    [form_hidden_234] => Cruze
+    [form_hidden_239] => 2013
+    [form_hidden_240] => I Рестайлинг
+    [form_hidden_241] => бензин / 1.6 / механика / 109 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => хэтчбек 5 дв.
+    [form_hidden_244] => 50000
+)
+
+07-03-2019_07:38:46 -- > Array
+(
+    [form_text_230] => 89128074839
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Kia
+    [form_hidden_234] => Ceed
+    [form_hidden_239] => 2009
+    [form_hidden_240] => I
+    [form_hidden_241] => бензин / 1.6 / автомат / 122 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => универсал
+    [form_hidden_244] => 100000
+)
+
+07-03-2019_11:59:55 -- > Array
+(
+    [form_text_230] => 89128989616
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => Lifan
+    [form_hidden_234] => Solano
+    [form_hidden_239] => 2012
+    [form_hidden_240] => I (620)
+    [form_hidden_241] => бензин / 1.6 / механика / 106 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 125000
+)
+
+07-03-2019_18:16:58 -- > Array
+(
+    [form_text_230] => 89058360819
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Kia
+    [form_hidden_234] => Ceed
+    [form_hidden_239] => 2012
+    [form_hidden_240] => I Рестайлинг
+    [form_hidden_241] => бензин / 1.6 / механика / 125 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => хэтчбек 5 дв.
+    [form_hidden_244] => 75000
+)
+
+09-03-2019_19:32:56 -- > Array
+(
+    [form_text_230] => 89612132671
+    [form_hidden_246] => САНТА ФЭ
+    [form_hidden_238] => Kia
+    [form_hidden_234] => Opirus
+    [form_hidden_239] => 2008
+    [form_hidden_240] => I Рестайлинг
+    [form_hidden_241] => бензин / 3.8 / автомат / 266 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 100000
+)
+
+11-03-2019_08:22:53 -- > Array
+(
+    [form_text_230] => 89128066999
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Renault
+    [form_hidden_234] => Duster
+    [form_hidden_239] => 2013
+    [form_hidden_240] => I
+    [form_hidden_241] => бензин / 1.6 / механика / 102 л.с.
+    [form_hidden_242] => полный
+    [form_hidden_243] => внедорожник
+    [form_hidden_244] => 50000
+)
+
+12-03-2019_06:25:59 -- > Array
+(
+    [form_text_230] => 89080489944
+    [form_hidden_246] => ЭЛАНТРА
+    [form_hidden_238] => Chevrolet
+    [form_hidden_234] => Lacetti
+    [form_hidden_239] => 2012
+    [form_hidden_240] => без обозначения
+    [form_hidden_241] => бензин / 1.6 / автомат / 109 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 125000
+)
+
+12-03-2019_10:31:23 -- > Array
+(
+    [form_text_230] => 9087036333
+    [form_hidden_246] => СОНАТА
+    [form_hidden_238] => Hyundai
+    [form_hidden_234] => Elantra
+    [form_hidden_239] => 2018
+    [form_hidden_240] => VI (AD)
+    [form_hidden_241] => бензин / 2.0 / автомат / 150 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 1
+)
+
+12-03-2019_10:31:24 -- > Array
+(
+    [form_text_230] => 9087036333
+    [form_hidden_246] => СОНАТА
+    [form_hidden_238] => 0
+    [form_hidden_234] => 0
+    [form_hidden_239] => 0
+    [form_hidden_240] => 0
+    [form_hidden_241] => 0
+    [form_hidden_242] => 0
+    [form_hidden_243] => 0
+    [form_hidden_244] => 0
+)
+
+12-03-2019_19:17:14 -- > Array
+(
+    [form_text_230] => 89127721390
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Hyundai
+    [form_hidden_234] => Solaris
+    [form_hidden_239] => 2013
+    [form_hidden_240] => I
+    [form_hidden_241] => бензин / 1.4 / автомат / 107 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 75000
+)
+
+12-03-2019_20:19:52 -- > Array
+(
+    [form_text_230] => 89514713639
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Volvo
+    [form_hidden_234] => S40
+    [form_hidden_239] => 2007
+    [form_hidden_240] => II Рестайлинг
+    [form_hidden_241] => бензин / 1.8 / механика / 125 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 100000
+)
+
+12-03-2019_20:21:44 -- > Array
+(
+    [form_text_230] => 89514713639
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Volvo
+    [form_hidden_234] => S40
+    [form_hidden_239] => 2007
+    [form_hidden_240] => II
+    [form_hidden_241] => бензин / 1.8 / механика / 125 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 100000
+)
+
+13-03-2019_10:11:49 -- > Array
+(
+    [form_text_230] => 89000727102
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => LADA (ВАЗ)
+    [form_hidden_234] => XRAY
+    [form_hidden_239] => 2017
+    [form_hidden_240] => I
+    [form_hidden_241] => бензин / 1.6 / механика / 106 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => хэтчбек 5 дв.
+    [form_hidden_244] => 10000
+)
+
+13-03-2019_14:54:31 -- > Array
+(
+    [form_text_230] => 89000828506
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Ford
+    [form_hidden_234] => Focus
+    [form_hidden_239] => 2006
+    [form_hidden_240] => II
+    [form_hidden_241] => бензин / 1.6 / механика / 115 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => универсал
+    [form_hidden_244] => 150000
+)
+
+14-03-2019_10:34:41 -- > Array
+(
+    [form_text_230] => 89227266601
+    [form_hidden_246] => Новый ТУССАН
+    [form_hidden_238] => LADA (ВАЗ)
+    [form_hidden_234] => Priora
+    [form_hidden_239] => 2011
+    [form_hidden_240] => I
+    [form_hidden_241] => бензин / 1.6 / механика / 98 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => хэтчбек 5 дв.
+    [form_hidden_244] => 75000
+)
+
+15-03-2019_07:31:09 -- > Array
+(
+    [form_text_230] => 89087084632
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => Hyundai
+    [form_hidden_234] => Solaris
+    [form_hidden_239] => 2018
+    [form_hidden_240] => II
+    [form_hidden_241] => бензин / 1.6 / механика / 123 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 1
+)
+
+15-03-2019_10:06:53 -- > Array
+(
+    [form_text_230] => 89514751499
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Mazda
+    [form_hidden_234] => CX-7
+    [form_hidden_239] => 2006
+    [form_hidden_240] => I
+    [form_hidden_241] => бензин / 2.3 / автомат / 238 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => внедорожник
+    [form_hidden_244] => 150000
+)
+
+15-03-2019_12:06:25 -- > Array
+(
+    [form_text_230] => 89823210187
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Citroen
+    [form_hidden_234] => C4
+    [form_hidden_239] => 2007
+    [form_hidden_240] => I
+    [form_hidden_241] => бензин / 1.6 / механика / 109 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => хэтчбек 3 дв.
+    [form_hidden_244] => 150000
+)
+
+15-03-2019_19:19:49 -- > Array
+(
+    [form_text_230] => 9292711533
+    [form_hidden_246] => ТУССАН
+    [form_hidden_238] => Hyundai
+    [form_hidden_234] => Elantra
+    [form_hidden_239] => 2014
+    [form_hidden_240] => V (MD) Рестайлинг
+    [form_hidden_241] => бензин / 1.6 / механика / 132 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 50000
+)
+
+15-03-2019_19:19:49 -- > Array
+(
+    [form_text_230] => 9292711533
+    [form_hidden_246] => ТУССАН
+    [form_hidden_238] => 0
+    [form_hidden_234] => 0
+    [form_hidden_239] => 0
+    [form_hidden_240] => 0
+    [form_hidden_241] => 0
+    [form_hidden_242] => 0
+    [form_hidden_243] => 0
+    [form_hidden_244] => 0
+)
+
+15-03-2019_19:19:50 -- > Array
+(
+    [form_text_230] => 9292711533
+    [form_hidden_246] => ТУССАН
+    [form_hidden_238] => 0
+    [form_hidden_234] => 0
+    [form_hidden_239] => 0
+    [form_hidden_240] => 0
+    [form_hidden_241] => 0
+    [form_hidden_242] => 0
+    [form_hidden_243] => 0
+    [form_hidden_244] => 0
+)
+
+15-03-2019_19:19:50 -- > Array
+(
+    [form_text_230] => 9292711533
+    [form_hidden_246] => ТУССАН
+    [form_hidden_238] => 0
+    [form_hidden_234] => 0
+    [form_hidden_239] => 0
+    [form_hidden_240] => 0
+    [form_hidden_241] => 0
+    [form_hidden_242] => 0
+    [form_hidden_243] => 0
+    [form_hidden_244] => 0
+)
+
+15-03-2019_20:36:20 -- > Array
+(
+    [form_text_230] => 89049752333
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => LADA (ВАЗ)
+    [form_hidden_234] => 2115
+    [form_hidden_239] => 2006
+    [form_hidden_240] => без обозначения
+    [form_hidden_241] => бензин / 1.5 / механика / 78 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 100000
+)
+
+16-03-2019_09:24:21 -- > Array
+(
+    [form_text_230] => 89123183520
+    [form_hidden_246] => ТУССАН
+    [form_hidden_238] => Ford
+    [form_hidden_234] => Focus
+    [form_hidden_239] => 2008
+    [form_hidden_240] => II Рестайлинг
+    [form_hidden_241] => бензин / 1.6 / механика / 115 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => универсал
+    [form_hidden_244] => 100000
+)
+
+17-03-2019_21:06:08 -- > Array
+(
+    [form_text_230] => 89517717110
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Volkswagen
+    [form_hidden_234] => Polo
+    [form_hidden_239] => 2018
+    [form_hidden_240] => V Рестайлинг
+    [form_hidden_241] => бензин / 1.6 / механика / 90 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 10000
+)
+
+18-03-2019_05:48:28 -- > Array
+(
+    [form_text_230] => 89517848180
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => Ford
+    [form_hidden_234] => Mondeo
+    [form_hidden_239] => 2010
+    [form_hidden_240] => IV
+    [form_hidden_241] => бензин / 2.0 / механика / 145 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 100000
+)
+
+18-03-2019_15:36:22 -- > Array
+(
+    [form_text_230] => 9617973737
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Volkswagen
+    [form_hidden_234] => Golf
+    [form_hidden_239] => 2013
+    [form_hidden_240] => VII
+    [form_hidden_241] => бензин / 1.4 / робот / 122 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => хэтчбек 5 дв.
+    [form_hidden_244] => 75000
+)
+
+20-03-2019_13:12:10 -- > Array
+(
+    [form_text_230] => 89191227447
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Hyundai
+    [form_hidden_234] => i20
+    [form_hidden_239] => 2009
+    [form_hidden_240] => I
+    [form_hidden_241] => бензин / 1.2 / механика / 78 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => хэтчбек 5 дв.
+    [form_hidden_244] => 100000
+)
+
+21-03-2019_07:32:58 -- > Array
+(
+    [form_text_230] => 9507209099
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Audi
+    [form_hidden_234] => Q5
+    [form_hidden_239] => 2011
+    [form_hidden_240] => I
+    [form_hidden_241] => бензин / 2.0 / робот / 211 л.с.
+    [form_hidden_242] => полный
+    [form_hidden_243] => внедорожник
+    [form_hidden_244] => 100000
+)
+
+22-03-2019_10:33:29 -- > Array
+(
+    [form_text_230] => 9227273090
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Kia
+    [form_hidden_234] => Rio
+    [form_hidden_239] => 2016
+    [form_hidden_240] => III Рестайлинг
+    [form_hidden_241] => бензин / 1.6 / автомат / 123 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 100000
+)
+
+22-03-2019_13:17:50 -- > Array
+(
+    [form_text_230] => +79518143955
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => Kia
+    [form_hidden_234] => Spectra
+    [form_hidden_239] => 2007
+    [form_hidden_240] => I Рестайлинг 2
+    [form_hidden_241] => бензин / 1.6 / механика / 101 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 200000
+)
+
+22-03-2019_18:26:41 -- > Array
+(
+    [form_text_230] => 89068984504
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => Honda
+    [form_hidden_234] => Civic
+    [form_hidden_239] => 2007
+    [form_hidden_240] => VIII
+    [form_hidden_241] => бензин / 1.3 / робот / 83 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => хэтчбек 5 дв.
+    [form_hidden_244] => 125000
+)
+
+22-03-2019_21:49:14 -- > Array
+(
+    [form_text_230] => +79323077768
+    [form_hidden_246] => Новый ТУССАН
+    [form_hidden_238] => Opel
+    [form_hidden_234] => Meriva
+    [form_hidden_239] => 2012
+    [form_hidden_240] => B
+    [form_hidden_241] => бензин / 1.4 / механика / 140 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => компактвэн
+    [form_hidden_244] => 200000
+)
+
+23-03-2019_22:10:30 -- > Array
+(
+    [form_text_230] => 89084934097
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => LADA (ВАЗ)
+    [form_hidden_234] => 2121 (4x4)
+    [form_hidden_239] => 1998
+    [form_hidden_240] => без обозначения
+    [form_hidden_241] => бензин / 1.7 / механика / 79 л.с.
+    [form_hidden_242] => полный
+    [form_hidden_243] => внедорожник
+    [form_hidden_244] => 200000
+)
+
+24-03-2019_17:36:36 -- > Array
+(
+    [form_text_230] => 89822809205
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => Hyundai
+    [form_hidden_234] => Accent
+    [form_hidden_239] => 2008
+    [form_hidden_240] => II (ТагАЗ)
+    [form_hidden_241] => бензин / 1.5 / механика / 102 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 200000
+)
+
+24-03-2019_18:30:25 -- > Array
+(
+    [form_text_230] => 89226373930
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Suzuki
+    [form_hidden_234] => SX4
+    [form_hidden_239] => 2012
+    [form_hidden_240] => I (Classic) Рестайлинг
+    [form_hidden_241] => бензин / 1.6 / механика / 112 л.с.
+    [form_hidden_242] => полный
+    [form_hidden_243] => хэтчбек 5 дв.
+    [form_hidden_244] => 30000
+)
+
+24-03-2019_20:53:22 -- > Array
+(
+    [form_text_230] => 89642423410
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Renault
+    [form_hidden_234] => Megane
+    [form_hidden_239] => 2012
+    [form_hidden_240] => III
+    [form_hidden_241] => бензин / 1.6 / механика / 106 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => хэтчбек 5 дв.
+    [form_hidden_244] => 100000
+)
+
+25-03-2019_15:10:48 -- > Array
+(
+    [form_text_230] => +79128951150
+    [form_hidden_246] => СОНАТА
+    [form_hidden_238] => Hyundai
+    [form_hidden_234] => Sonata
+    [form_hidden_239] => 2011
+    [form_hidden_240] => VI (YF)
+    [form_hidden_241] => бензин / 2.4 / автомат / 178 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 75000
+)
+
+25-03-2019_16:00:42 -- > Array
+(
+    [form_text_230] => 89516671022
+    [form_hidden_246] => Новый САНТА ФЭ
+    [form_hidden_238] => Audi
+    [form_hidden_234] => A1
+    [form_hidden_239] => 2012
+    [form_hidden_240] => I
+    [form_hidden_241] => бензин / 1.4 / робот / 185 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => хэтчбек 5 дв.
+    [form_hidden_244] => 10000
+)
+
+26-03-2019_11:13:49 -- > Array
+(
+    [form_text_230] => 89028603136
+    [form_hidden_246] => Новый ТУССАН
+    [form_hidden_238] => Toyota
+    [form_hidden_234] => Corolla
+    [form_hidden_239] => 2008
+    [form_hidden_240] => X (E140 E150)
+    [form_hidden_241] => бензин / 1.6 / робот / 124 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 200000
+)
+
+26-03-2019_11:13:50 -- > Array
+(
+    [form_text_230] => 89028603136
+    [form_hidden_246] => Новый ТУССАН
+    [form_hidden_238] => 0
+    [form_hidden_234] => 0
+    [form_hidden_239] => 0
+    [form_hidden_240] => 0
+    [form_hidden_241] => 0
+    [form_hidden_242] => 0
+    [form_hidden_243] => 0
+    [form_hidden_244] => 0
+)
+
+26-03-2019_14:45:04 -- > Array
+(
+    [form_text_230] => 89049898236
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => LADA (ВАЗ)
+    [form_hidden_234] => 2114
+    [form_hidden_239] => 2007
+    [form_hidden_240] => без обозначения
+    [form_hidden_241] => бензин / 1.5 / механика / 77 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => хэтчбек 5 дв.
+    [form_hidden_244] => 150000
+)
+
+26-03-2019_17:27:02 -- > Array
+(
+    [form_text_230] => 89129705186
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => Volkswagen
+    [form_hidden_234] => Jetta
+    [form_hidden_239] => 2012
+    [form_hidden_240] => VI
+    [form_hidden_241] => бензин / 1.4 / механика / 122 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 150000
+)
+
+26-03-2019_17:59:37 -- > Array
+(
+    [form_text_230] => 9823219872
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => Daewoo
+    [form_hidden_234] => Matiz
+    [form_hidden_239] => 2010
+    [form_hidden_240] => I Рестайлинг
+    [form_hidden_241] => бензин / 0.8 / механика / 52 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => хэтчбек 5 дв.
+    [form_hidden_244] => 30000
+)
+
+27-03-2019_18:55:42 -- > Array
+(
+    [form_text_230] => 9514444948
+    [form_hidden_246] => ЭЛАНТРА
+    [form_hidden_238] => LADA (ВАЗ)
+    [form_hidden_234] => Granta
+    [form_hidden_239] => 2013
+    [form_hidden_240] => без обозначения
+    [form_hidden_241] => бензин / 1.6 / механика / 87 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 100000
+)
+
+28-03-2019_03:41:19 -- > Array
+(
+    [form_text_230] => +79514444948
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => LADA (ВАЗ)
+    [form_hidden_234] => Granta
+    [form_hidden_239] => 2013
+    [form_hidden_240] => без обозначения
+    [form_hidden_241] => бензин / 1.6 / механика / 87 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 100000
+)
+
+28-03-2019_17:18:32 -- > Array
+(
+    [form_text_230] => 89514813762
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Ford
+    [form_hidden_234] => Focus
+    [form_hidden_239] => 2007
+    [form_hidden_240] => II
+    [form_hidden_241] => бензин / 1.8 / механика / 125 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => хэтчбек 5 дв.
+    [form_hidden_244] => 125000
+)
+
+30-03-2019_12:58:11 -- > Array
+(
+    [form_text_230] => 89292723525
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => Mercedes-Benz
+    [form_hidden_234] => A-klasse
+    [form_hidden_239] => 2000
+    [form_hidden_240] => I (W168)
+    [form_hidden_241] => бензин / 1.4 / механика / 82 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => хэтчбек 5 дв.
+    [form_hidden_244] => 150000
+)
+
+31-03-2019_12:07:33 -- > Array
+(
+    [form_text_230] => 89511249840
+    [form_hidden_246] => ТУССАН
+    [form_hidden_238] => LADA (ВАЗ)
+    [form_hidden_234] => Granta
+    [form_hidden_239] => 2016
+    [form_hidden_240] => без обозначения
+    [form_hidden_241] => бензин / 1.6 / механика / 87 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => лифтбек
+    [form_hidden_244] => 30000
+)
+
+31-03-2019_21:28:10 -- > Array
+(
+    [form_text_230] => 89129788824
+    [form_hidden_246] => КРЕТА
+    [form_hidden_238] => Toyota
+    [form_hidden_234] => bB
+    [form_hidden_239] => 2000
+    [form_hidden_240] => I
+    [form_hidden_241] => бензин / 1.5 / автомат / 105 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => компактвэн
+    [form_hidden_244] => 100000
+)
+
+01-04-2019_03:27:25 -- > Array
+(
+    [form_text_230] => 89507331122
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => Hyundai
+    [form_hidden_234] => i30
+    [form_hidden_239] => 2010
+    [form_hidden_240] => I Рестайлинг
+    [form_hidden_241] => бензин / 1.6 / механика / 126 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => хэтчбек 5 дв.
+    [form_hidden_244] => 150000
+)
+
+03-04-2019_11:30:58 -- > Array
+(
+    [form_text_230] => 89080432583
+    [form_hidden_246] => СОЛЯРИС
+    [form_hidden_238] => Chery
+    [form_hidden_234] => Fora
+    [form_hidden_239] => 2009
+    [form_hidden_240] => (A21)
+    [form_hidden_241] => бензин / 1.6 / механика / 119 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 125000
+)
+
+04-04-2019_11:18:13 -- > Array
+(
+    [form_text_230] => 89225613909
+    [form_hidden_246] => Новый САНТА ФЭ
+    [form_hidden_238] => Ford
+    [form_hidden_234] => Maverick
+    [form_hidden_239] => 2005
+    [form_hidden_240] => II
+    [form_hidden_241] => бензин / 3.0 / автомат / 203 л.с.
+    [form_hidden_242] => полный
+    [form_hidden_243] => внедорожник
+    [form_hidden_244] => 200000
+)
+
+04-04-2019_11:22:29 -- > Array
+(
+    [form_text_230] => 9125859606
+    [form_hidden_246] => Новый ТУССАН
+    [form_hidden_238] => Peugeot
+    [form_hidden_234] => 508
+    [form_hidden_239] => 2011
+    [form_hidden_240] => I
+    [form_hidden_241] => бензин / 1.6 / автомат / 150 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 125000
+)
+
+05-04-2019_20:25:00 -- > Array
+(
+    [form_text_230] => 9194548046
+    [form_hidden_246] => Новая ЭЛАНТРА
+    [form_hidden_238] => Nissan
+    [form_hidden_234] => Almera
+    [form_hidden_239] => 2014
+    [form_hidden_240] => III (G15)
+    [form_hidden_241] => бензин / 1.6 / механика / 102 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 100000
+)
+
+05-04-2019_20:37:16 -- > Array
+(
+    [form_text_230] => 9194548046
+    [form_hidden_246] => ЭЛАНТРА
+    [form_hidden_238] => Nissan
+    [form_hidden_234] => Almera
+    [form_hidden_239] => 2014
+    [form_hidden_240] => III (G15)
+    [form_hidden_241] => бензин / 1.6 / механика / 102 л.с.
+    [form_hidden_242] => передний
+    [form_hidden_243] => седан
+    [form_hidden_244] => 100000
+)
+
+08-04-2019_14:43:50 -- > Array
+(
+    [form_text_230] => 89128039045
+    [form_hidden_246] => Новый САНТА ФЭ
+    [form_hidden_238] => BMW
+    [form_hidden_234] => X6
+    [form_hidden_239] => 2015
+    [form_hidden_240] => II (F16)
+    [form_hidden_241] => дизель / 3.0 / автомат / 249 л.с.
+    [form_hidden_242] => полный
+    [form_hidden_243] => внедорожник
+    [form_hidden_244] => 50000
+)
+
+08-04-2019_16:56:12 -- > Array
+(
+    [form_text_230] => 89222878509
+    [form_hidden_246] => Новый САНТА ФЭ
+    [form_hidden_238] => Hyundai
+    [form_hidden_234] => Creta
+    [form_hidden_239] => 2017
+    [form_hidden_240] => I
+    [form_hidden_241] => бензин / 2.0 / автомат / 149 л.с.
+    [form_hidden_242] => полный
+    [form_hidden_243] => внедорожник
+    [form_hidden_244] => 10000
+)
